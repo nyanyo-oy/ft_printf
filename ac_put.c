@@ -76,4 +76,3 @@ int	ft_putnbr(int n)
 	len++;
 	return (len);
 }
-
